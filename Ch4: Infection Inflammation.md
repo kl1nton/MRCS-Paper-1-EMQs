@@ -13,31 +13,31 @@
 - Mx of immunocompromised patient
 
 ## 4.3 Disease-Causing Organisms
-Bacteria
-Viruses
-Fungi
-Parasites
+- Bacteria
+- Viruses
+- Fungi
+- Parasites
 
 ## 4.4 Surgical Infections
-Recognition of septic patient
-Fever in post-operative patient
-Abscess Mx
-Necrotising fasciitis
-Gangrene
-Specimen collection
+- Recognition of septic patient
+- Fever in post-operative patient
+- Abscess Mx
+- Necrotising fasciitis
+- Gangrene
+- Specimen collection
 
 ## 4.5 Prevention and Control of Infections
-Infection control
-Skin preparation
-Asepsis and sterilization
-Surgical measures to reduce infection
-Vaccination
-Sharps injury
+- Infection control
+- Skin preparation
+- Asepsis and sterilization
+- Surgical measures to reduce infection
+- Vaccination
+- Sharps injury
 
 ## 4.6 Antibiotic Control of Infection
-Types of antibiotic
-Empirical Tx
-Antibiotic prophylaxis
-Microbial resistance 
+- Types of antibiotic (ABx)
+- Empirical treatment (Tx)
+- Antibiotic prophylaxis
+- Microbial resistance 
 
 ------
