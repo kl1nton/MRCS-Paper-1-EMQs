@@ -1,8 +1,8 @@
 # Ch6A: Trauma - Part 1: Head, Abdomen, Trunk
 
 ## 6.1 Overview of Trauma
-Historical perspective
-The trimodal distribution of death
+- Historical perspective
+- The trimodal distribution of death
 Pre-hospital care
 Triage and major incidents
 Trauma severity scoring
